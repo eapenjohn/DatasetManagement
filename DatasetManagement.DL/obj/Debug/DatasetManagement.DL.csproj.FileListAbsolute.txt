@@ -1,0 +1,7 @@
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL\bin\Debug\DatasetManagement.DL.dll
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL\bin\Debug\DatasetManagement.DL.pdb
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL\bin\Debug\DatasetManagement.BL.dll
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL\bin\Debug\DatasetManagement.BL.pdb
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL\obj\Debug\DatasetManagement.DL.csprojResolveAssemblyReference.cache
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL\obj\Debug\DatasetManagement.DL.dll
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL\obj\Debug\DatasetManagement.DL.pdb
