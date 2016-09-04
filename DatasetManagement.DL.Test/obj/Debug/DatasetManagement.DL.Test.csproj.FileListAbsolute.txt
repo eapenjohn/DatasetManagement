@@ -1,0 +1,6 @@
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL.Test\bin\Debug\DatasetManagement.DL.Test.dll
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL.Test\bin\Debug\DatasetManagement.DL.Test.pdb
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL.Test\obj\Debug\DatasetManagement.DL.Test.csprojResolveAssemblyReference.cache
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL.Test\obj\Debug\DatasetManagement.DL.Test.dll
+D:\Code\GIT\DatasetManagement\DatasetManagement.DL.Test\obj\Debug\DatasetManagement.DL.Test.pdb

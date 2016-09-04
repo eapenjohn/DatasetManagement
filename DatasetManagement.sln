@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatasetManagement.DL", "Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatasetManagement.BL", "DatasetManagement.BL\DatasetManagement.BL.csproj", "{04ED7441-084E-444A-891B-393B880997EE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{27DEFEFD-A4AF-4A97-9D41-834F7810CBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatasetManagement.DL.Test", "DatasetManagement.DL.Test\DatasetManagement.DL.Test.csproj", "{CBC50F1D-086A-4E71-93AD-EDE14C534793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +31,15 @@ Global
 		{04ED7441-084E-444A-891B-393B880997EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04ED7441-084E-444A-891B-393B880997EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04ED7441-084E-444A-891B-393B880997EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC50F1D-086A-4E71-93AD-EDE14C534793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC50F1D-086A-4E71-93AD-EDE14C534793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC50F1D-086A-4E71-93AD-EDE14C534793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC50F1D-086A-4E71-93AD-EDE14C534793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CBC50F1D-086A-4E71-93AD-EDE14C534793} = {27DEFEFD-A4AF-4A97-9D41-834F7810CBE4}
 	EndGlobalSection
 EndGlobal
